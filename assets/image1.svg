@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="PA 26">
+  <defs>
+    <linearGradient id="pa26-gradient" x1="58" y1="45" x2="205" y2="209" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff4b0a"/>
+      <stop offset="0.5" stop-color="#d2508d"/>
+      <stop offset="1" stop-color="#02bbca"/>
+    </linearGradient>
+    <mask id="six-cutout">
+      <rect width="256" height="256" fill="#fff"/>
+      <circle cx="175" cy="178" r="18" fill="#000"/>
+      <rect x="169" y="128" width="12" height="91" fill="#000"/>
+    </mask>
+  </defs>
+
+  <g fill="url(#pa26-gradient)">
+    <path d="M72 50h12v68H72z"/>
+    <path d="M88 50h24c25 0 42 15 42 37s-17 37-42 37H93v-13h19c17 0 28-9 28-24s-11-24-28-24H88z"/>
+
+    <path d="M166 50h16l35 68h-16l-8-17h-39l-8 17h-15zM160 88h27l-13-28z"/>
+    <path d="M182 50h14v68h-14z"/>
+
+    <path d="M70 199l40-42c8-9 12-16 12-25 0-11-7-18-19-18-11 0-19 7-20 21H69c1-21 14-34 35-34 20 0 33 12 33 31 0 13-5 24-18 37l-26 27h45v13H70z"/>
+
+    <path mask="url(#six-cutout)" d="M170 103h35l-30 52c6-4 13-6 21-6 20 0 35 13 35 31 0 20-16 32-38 32-23 0-40-13-40-35 0-10 4-20 11-32z"/>
+  </g>
+</svg>

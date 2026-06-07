@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="PA 26">
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Tusker Grotesk Logo";
+        src: url("TuskerGrotesk-3600Semibold.otf") format("opentype");
+      }
+
+      .logo-text {
+        font-family: "Tusker Grotesk Logo", Impact, "Arial Narrow", sans-serif;
+        font-weight: 700;
+        letter-spacing: 0;
+      }
+    </style>
+    <linearGradient id="pa26-gradient" x1="44" y1="48" x2="207" y2="205" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff4b0a"/>
+      <stop offset="0.52" stop-color="#d2508d"/>
+      <stop offset="1" stop-color="#02bbca"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#pa26-gradient)">
+    <text class="logo-text" x="49" y="116" font-size="91">PA</text>
+    <text class="logo-text" x="51" y="201" font-size="91">26</text>
+  </g>
+</svg>

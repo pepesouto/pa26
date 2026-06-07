@@ -1,0 +1,632 @@
+@font-face {
+  font-family: "Tusker Grotesk";
+  src: url("assets/TuskerGrotesk-3600Semibold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Neue Haas Display";
+  src: url("assets/NeueHaasDisplay-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Neue Haas Display";
+  src: url("assets/NeueHaasDisplay-Mediu.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --black: #21211f;
+  --gray: #e1e1e1;
+  --orange: #ff4b0a;
+  --cyan: #02bbca;
+  --magenta: #d2508d;
+  --white: #ffffff;
+  --page-x: clamp(1.25rem, 5.4vw, 5.7rem);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--black);
+  color: var(--white);
+  font-family: "Neue Haas Display", Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.panel {
+  position: relative;
+  min-height: 100svh;
+  overflow: hidden;
+  padding: clamp(2rem, 6vw, 5rem) var(--page-x);
+}
+
+.dark {
+  background:
+    radial-gradient(circle at 92% 14%, rgba(2, 187, 202, 0.14), transparent 18rem),
+    var(--black);
+}
+
+.hero {
+  min-height: max(100svh, 42rem);
+  background: var(--black);
+  padding-top: clamp(2rem, 5vw, 4rem);
+}
+
+.hero-brand-lockup {
+  position: absolute;
+  top: clamp(2rem, 5.5vw, 5.25rem);
+  left: var(--page-x);
+  display: flex;
+  align-items: flex-start;
+  gap: clamp(0.75rem, 1.2vw, 1.1rem);
+  z-index: 2;
+}
+
+.brand-mark {
+  width: clamp(4.9rem, 5.8vw, 7rem);
+  aspect-ratio: 142 / 192;
+  object-fit: contain;
+}
+
+.corner-mark {
+  position: absolute;
+  top: clamp(1.7rem, 5vw, 4.2rem);
+  left: var(--page-x);
+  width: clamp(4.9rem, 6.8vw, 7.3rem);
+  aspect-ratio: 142 / 192;
+  object-fit: contain;
+}
+
+.asset-accent {
+  position: absolute;
+  pointer-events: none;
+  user-select: none;
+}
+
+.accent-line {
+  top: 11vh;
+  right: clamp(2rem, 8vw, 8rem);
+  height: 74vh;
+  width: auto;
+  opacity: 0.82;
+}
+
+.accent-angle {
+  right: clamp(1rem, 8vw, 8rem);
+  top: clamp(5rem, 11vw, 9rem);
+  width: min(20vw, 12rem);
+  opacity: 0.8;
+}
+
+.accent-crop {
+  right: 0;
+  bottom: clamp(3rem, 8vw, 7rem);
+  height: min(46vh, 28rem);
+  width: auto;
+  opacity: 0.72;
+}
+
+.event-meta {
+  position: absolute;
+  top: clamp(2.55rem, 5.7vw, 5.35rem);
+  right: var(--page-x);
+  color: var(--orange);
+  text-align: right;
+  font-size: clamp(1.05rem, 1.55vw, 1.62rem);
+  line-height: 1.05;
+  text-transform: uppercase;
+}
+
+.event-meta p {
+  margin: 0 0 0.45rem;
+}
+
+.event-meta p:first-child {
+  font-weight: 500;
+  letter-spacing: 0.04em;
+}
+
+.event-meta p:last-child {
+  font-weight: 300;
+  text-transform: none;
+}
+
+.edition {
+  color: var(--orange);
+  display: grid;
+  gap: 0.16rem;
+  padding-top: clamp(0.1rem, 0.45vw, 0.35rem);
+  font-size: clamp(1rem, 1.45vw, 1.45rem);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.hero-title-group {
+  position: absolute;
+  top: clamp(13rem, 31vh, 18rem);
+  left: 50%;
+  width: min(78rem, 82vw);
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+p,
+ul,
+figure {
+  margin: 0;
+}
+
+h1 {
+  font-family: "Tusker Grotesk", Impact, "Arial Narrow", sans-serif;
+  margin-top: clamp(1.75rem, 4vw, 3.4rem);
+  padding-block: 0.08em;
+  color: transparent;
+  background: linear-gradient(95deg, #f04b1b 0%, #c94d83 43%, #02bbca 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-size: clamp(5rem, 9.5vw, 9.5rem);
+  line-height: 1;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.catalog-title {
+  font-family: "Tusker Grotesk", Impact, "Arial Narrow", sans-serif;
+  color: var(--cyan);
+  font-size: clamp(2.9rem, 6.35vw, 7.2rem);
+  line-height: 1;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+@media (max-width: 1120px) {
+  .hero {
+    min-height: max(100svh, 43rem);
+  }
+
+  .hero-brand-lockup {
+    top: clamp(1.5rem, 4.6vw, 3.8rem);
+  }
+
+  .brand-mark {
+    width: clamp(4.2rem, 7vw, 5.4rem);
+  }
+
+  .event-meta {
+    top: clamp(1.7rem, 4.6vw, 3.8rem);
+    font-size: clamp(1rem, 2.1vw, 1.35rem);
+  }
+
+  .edition {
+    font-size: clamp(0.9rem, 1.9vw, 1.15rem);
+  }
+
+  .hero-title-group {
+    top: clamp(12rem, 34vh, 15rem);
+    width: min(90vw, 58rem);
+  }
+
+  h1 {
+    font-size: clamp(4.4rem, 12vw, 7.4rem);
+  }
+
+  .catalog-title {
+    font-size: clamp(3.4rem, 9vw, 5.6rem);
+  }
+
+  .intro,
+  .collaboration,
+  .disciplines {
+    min-height: max(100svh, 40rem);
+    padding-top: clamp(14rem, 24vh, 17rem);
+    align-items: start;
+  }
+}
+
+.intro {
+  display: grid;
+  grid-template-columns: minmax(26rem, 0.82fr) minmax(24rem, 0.78fr);
+  align-items: center;
+  gap: clamp(4rem, 9vw, 10rem);
+}
+
+.intro-copy {
+  max-width: 47rem;
+  margin-left: clamp(0rem, 16vw, 17rem);
+  align-self: center;
+}
+
+.intro h2,
+.disciplines h2 {
+  font-family: "Tusker Grotesk", Impact, "Arial Narrow", sans-serif;
+  color: var(--gray);
+  font-size: clamp(2.6rem, 4.15vw, 4.25rem);
+  line-height: 1.18;
+  text-transform: uppercase;
+}
+
+.intro-copy p,
+.disciplines > div p,
+.closing-note {
+  margin-top: clamp(1rem, 2vw, 1.55rem);
+  font-size: clamp(1.05rem, 1.55vw, 1.45rem);
+  line-height: 1.14;
+  color: var(--white);
+  font-weight: 300;
+  max-width: 55rem;
+}
+
+.cyan-list,
+.discipline-grid {
+  padding: 0;
+  color: var(--cyan);
+  font-size: clamp(1.05rem, 1.58vw, 1.5rem);
+  font-weight: 300;
+  line-height: 1.12;
+}
+
+.cyan-list {
+  list-style: disc;
+  padding-left: 1.15em;
+  justify-self: start;
+  max-width: 39rem;
+}
+
+.discipline-grid {
+  list-style: disc;
+  padding-left: 1.15em;
+}
+
+.cyan-list li,
+.discipline-grid li {
+  text-transform: lowercase;
+}
+
+.collaboration {
+  display: grid;
+  grid-template-columns: minmax(20rem, 0.62fr) minmax(28rem, 1fr);
+  gap: clamp(5rem, 14vw, 16rem);
+  align-items: center;
+}
+
+.collaboration h2 {
+  font-family: "Tusker Grotesk", Impact, "Arial Narrow", sans-serif;
+  color: var(--magenta);
+  max-width: 33rem;
+  font-size: clamp(2.7rem, 4.25vw, 4.35rem);
+  line-height: 1.18;
+  text-transform: uppercase;
+}
+
+.collab-list {
+  display: grid;
+  gap: clamp(1.75rem, 3.35vw, 3.2rem);
+}
+
+.collab-list article {
+  color: var(--cyan);
+}
+
+.collab-list h3 {
+  font-family: "Neue Haas Display", Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: clamp(1.05rem, 1.45vw, 1.35rem);
+  letter-spacing: 0.04em;
+  line-height: 1.18;
+  text-transform: uppercase;
+}
+
+.collab-list p {
+  margin-top: 0.55rem;
+  font-size: clamp(1.25rem, 1.75vw, 1.8rem);
+  font-weight: 300;
+  line-height: 1.16;
+}
+
+.disciplines {
+  display: grid;
+  grid-template-columns: minmax(20rem, 0.62fr) minmax(26rem, 0.95fr);
+  gap: clamp(5rem, 14vw, 16rem);
+  align-items: center;
+}
+
+.disciplines h2 {
+  color: var(--orange);
+}
+
+.discipline-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.18rem clamp(2.5rem, 5vw, 5rem);
+}
+
+.closing-note {
+  position: absolute;
+  left: var(--page-x);
+  right: var(--page-x);
+  bottom: clamp(2rem, 5vw, 4.5rem);
+  color: var(--orange);
+}
+
+.artist-showcase {
+  position: relative;
+  padding: clamp(2rem, 6vw, 5rem) var(--page-x) clamp(4rem, 8vw, 7rem);
+  background: var(--white);
+  color: var(--cyan);
+}
+
+.showcase-header {
+  display: grid;
+  grid-template-columns: clamp(4.9rem, 6.8vw, 7.3rem) minmax(0, 1fr);
+  align-items: end;
+  gap: clamp(2rem, 6vw, 6rem);
+  margin-bottom: clamp(2.5rem, 6vw, 5rem);
+}
+
+.showcase-header .corner-mark {
+  position: static;
+  width: 100%;
+}
+
+.showcase-header h2 {
+  font-family: "Tusker Grotesk", Impact, "Arial Narrow", sans-serif;
+  color: var(--orange);
+  font-size: clamp(3rem, 7vw, 7rem);
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.artist-rows {
+  display: grid;
+  gap: clamp(3rem, 8vw, 7rem);
+}
+
+.artist-row {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(18rem, 0.78fr);
+  align-items: center;
+  gap: clamp(2rem, 7vw, 7rem);
+}
+
+.artist-row:nth-child(even) .artist-info {
+  order: 2;
+}
+
+.artist-row:nth-child(even) figure {
+  order: 1;
+}
+
+.artist-info {
+  min-width: 0;
+}
+
+.artist-info h3 {
+  font-family: "Tusker Grotesk", Impact, "Arial Narrow", sans-serif;
+  font-size: clamp(4rem, 8.5vw, 9rem);
+  line-height: 1.06;
+  text-transform: uppercase;
+}
+
+.artist-info h3 a {
+  color: var(--cyan);
+  text-decoration: none;
+}
+
+.artist-info h3 a:hover,
+.artist-info h3 a:focus-visible {
+  color: var(--orange);
+}
+
+.artist-info p {
+  margin-top: clamp(1rem, 2vw, 1.75rem);
+  color: var(--black);
+  font-size: clamp(1.35rem, 2.4vw, 2.3rem);
+  font-weight: 300;
+  line-height: 1.12;
+}
+
+.artist-row figure {
+  margin: 0;
+  width: 100%;
+}
+
+.artist-row figure img,
+.artist-row figure video {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+}
+
+.pepe-media {
+  position: relative;
+  isolation: isolate;
+  padding-bottom: clamp(2.5rem, 7vw, 5rem);
+}
+
+.pepe-media .pepe-still {
+  width: min(76%, 28rem);
+  aspect-ratio: 4 / 5;
+}
+
+.pepe-media .pepe-video {
+  position: absolute;
+  right: 4%;
+  bottom: 0;
+  width: min(46%, 16rem);
+  aspect-ratio: 4 / 5;
+  z-index: 2;
+}
+
+@media (max-width: 860px) {
+  .panel {
+    min-height: auto;
+    padding-top: 8rem;
+    padding-bottom: 5rem;
+  }
+
+  .hero {
+    min-height: max(92svh, 40rem);
+  }
+
+  .intro,
+  .collaboration,
+  .disciplines {
+    padding-top: 12rem;
+  }
+
+  .event-meta {
+    left: var(--page-x);
+    right: var(--page-x);
+    text-align: right;
+  }
+
+  .hero-title-group {
+    top: clamp(12rem, 34vh, 15rem);
+    width: min(92vw, 44rem);
+  }
+
+  .accent-line {
+    display: none;
+  }
+
+  .accent-crop {
+    height: 18rem;
+    opacity: 0.38;
+  }
+
+  h1,
+  .catalog-title {
+    white-space: normal;
+  }
+
+  h1 {
+    font-size: clamp(3.8rem, 15vw, 6.6rem);
+  }
+
+  .catalog-title {
+    font-size: clamp(2.8rem, 11.5vw, 5.2rem);
+  }
+
+  .intro,
+  .collaboration,
+  .disciplines {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  .intro-copy {
+    margin-left: 0;
+  }
+
+  .cyan-list {
+    font-size: clamp(1.05rem, 4.2vw, 1.65rem);
+  }
+
+  .discipline-grid {
+    font-size: clamp(1.3rem, 5vw, 2rem);
+  }
+
+  .discipline-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .closing-note {
+    position: static;
+  }
+
+  .artist-row {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .artist-row:nth-child(even) .artist-info,
+  .artist-row:nth-child(even) figure {
+    order: initial;
+  }
+
+  .artist-info h3 {
+    font-size: clamp(3rem, 14vw, 6rem);
+  }
+
+  .pepe-media {
+    padding-bottom: 3rem;
+  }
+
+  .pepe-media .pepe-still {
+    width: 76%;
+  }
+
+  .pepe-media .pepe-video {
+    width: 48%;
+    right: 0;
+  }
+}
+
+@media (max-width: 520px) {
+  :root {
+    --page-x: 1rem;
+  }
+
+  .brand-mark,
+  .corner-mark {
+    width: 4.6rem;
+  }
+
+  .hero-brand-lockup {
+    gap: 0.7rem;
+  }
+
+  .edition {
+    font-size: 1rem;
+  }
+
+  .event-meta {
+    font-size: 1rem;
+  }
+
+  .intro h2,
+  .collaboration h2,
+  .disciplines h2 {
+    font-size: clamp(2.45rem, 10.5vw, 4rem);
+    line-height: 1.16;
+  }
+
+  .showcase-header {
+    grid-template-columns: 4.6rem minmax(0, 1fr);
+    gap: 1.2rem;
+  }
+
+  .showcase-header h2 {
+    font-size: clamp(2.5rem, 13vw, 4rem);
+  }
+
+  .artist-info p {
+    font-size: clamp(1.15rem, 6vw, 1.6rem);
+  }
+}
