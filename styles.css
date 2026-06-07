@@ -483,6 +483,154 @@ h1 {
   z-index: 2;
 }
 
+.all-artists-cta {
+  display: grid;
+  place-items: center;
+  padding: clamp(2rem, 5vw, 4rem) var(--page-x);
+  background: var(--white);
+}
+
+.all-artists-cta a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3.4rem;
+  padding: 1.05rem 1.85rem;
+  border: 2px solid var(--orange);
+  color: var(--orange);
+  font-size: clamp(1rem, 1.6vw, 1.25rem);
+  font-weight: 500;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.all-artists-cta a:hover,
+.all-artists-cta a:focus-visible {
+  background: var(--orange);
+  color: var(--white);
+}
+
+.site-footer {
+  padding: 1.4rem var(--page-x) 1.8rem;
+  background: var(--white);
+  color: var(--black);
+  text-align: right;
+}
+
+.site-footer p {
+  margin: 0;
+  font-size: clamp(0.95rem, 1.4vw, 1.15rem);
+  font-weight: 300;
+}
+
+.site-footer a {
+  color: var(--orange);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.site-footer a:hover,
+.site-footer a:focus-visible {
+  color: var(--cyan);
+}
+
+.artists-page {
+  min-height: 100svh;
+  padding: clamp(2rem, 6vw, 5rem) var(--page-x) clamp(4rem, 8vw, 7rem);
+  background: var(--white);
+}
+
+.artists-page-header {
+  display: grid;
+  grid-template-columns: clamp(4.9rem, 6.8vw, 7.3rem) minmax(0, 1fr);
+  align-items: end;
+  gap: clamp(2rem, 6vw, 6rem);
+  margin-bottom: clamp(3rem, 7vw, 6rem);
+}
+
+.artists-page-header .corner-mark {
+  position: static;
+  width: 100%;
+}
+
+.artists-page-header h1 {
+  margin: 0;
+  padding: 0;
+  color: var(--cyan);
+  background: none;
+  -webkit-background-clip: initial;
+  background-clip: initial;
+  font-size: clamp(3.4rem, 8vw, 8rem);
+  line-height: 1;
+  white-space: normal;
+}
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+  align-items: start;
+  gap: clamp(2rem, 5vw, 4rem);
+}
+
+.profile-card {
+  display: grid;
+  justify-items: center;
+  align-content: start;
+  text-align: center;
+}
+
+.profile-card a {
+  color: var(--cyan);
+  text-decoration: none;
+  transition: color 180ms ease;
+}
+
+.profile-card a:hover,
+.profile-card a:focus-visible {
+  color: var(--orange);
+}
+
+.profile-card img {
+  width: clamp(8rem, 16vw, 12rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-placeholder {
+  display: grid;
+  place-items: center;
+  width: clamp(8rem, 16vw, 12rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: var(--black);
+  color: var(--orange);
+  font-family: "Tusker Grotesk", Impact, "Arial Narrow", sans-serif;
+  font-size: clamp(2.6rem, 5vw, 4rem);
+  line-height: 1;
+}
+
+.profile-card h2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin: 1rem 0 0;
+  color: var(--cyan);
+  font-family: "Tusker Grotesk", Impact, "Arial Narrow", sans-serif;
+  font-size: clamp(2.2rem, 4vw, 4rem);
+  line-height: 1.08;
+  text-transform: uppercase;
+}
+
+.profile-card p {
+  margin-top: 0.65rem;
+  max-width: 22rem;
+  color: var(--black);
+  font-size: clamp(1rem, 1.5vw, 1.25rem);
+  font-weight: 300;
+  line-height: 1.22;
+}
+
 @media (max-width: 860px) {
   .panel {
     min-height: auto;
@@ -585,6 +733,11 @@ h1 {
   .pepe-media .pepe-video {
     width: 48%;
     right: 0;
+  }
+
+  .artists-page-header {
+    grid-template-columns: 4.6rem minmax(0, 1fr);
+    gap: 1.2rem;
   }
 }
 

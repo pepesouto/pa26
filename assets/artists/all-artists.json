@@ -1,0 +1,1092 @@
+[
+  {
+    "row": 9,
+    "name": "Andrés Papantonakis/ Rose",
+    "description": "Artista neurodiverso, amante del candombe y las comparsa",
+    "instagramRaw": "apurocandombe",
+    "instagramHandle": "apurocandombe",
+    "instagramUrl": "https://www.instagram.com/apurocandombe/",
+    "profileImage": "assets/artists/profiles/andres-papantonakis-rose-profile.jpg",
+    "initials": "AP"
+  },
+  {
+    "row": 10,
+    "name": "Ana Laura Isnardi",
+    "description": "Artista plástica",
+    "instagramRaw": "Ana.isnardi",
+    "instagramHandle": "Ana.isnardi",
+    "instagramUrl": "https://www.instagram.com/Ana.isnardi/",
+    "profileImage": "assets/artists/profiles/ana-laura-isnardi-profile.jpg",
+    "initials": "AL"
+  },
+  {
+    "row": 11,
+    "name": "Pablo Canale",
+    "description": "Arte plástico/ pintura y collage técnica mixta",
+    "instagramRaw": "Canalearte_",
+    "instagramHandle": "Canalearte_",
+    "instagramUrl": "https://www.instagram.com/Canalearte_/",
+    "profileImage": "assets/artists/profiles/pablo-canale-profile.jpg",
+    "initials": "PC"
+  },
+  {
+    "row": 12,
+    "name": "Andrea Gelsi",
+    "description": "Sicóloga/ óleo",
+    "instagramRaw": "andreagelsicastillo",
+    "instagramHandle": "andreagelsicastillo",
+    "instagramUrl": "https://www.instagram.com/andreagelsicastillo/",
+    "profileImage": "assets/artists/profiles/andrea-gelsi-profile.jpg",
+    "initials": "AG"
+  },
+  {
+    "row": 13,
+    "name": "Pedro Presno",
+    "description": "Alterna los paisajes al óleo con el arte abstracto en acrílico",
+    "instagramRaw": "pedropresno",
+    "instagramHandle": "pedropresno",
+    "instagramUrl": "https://www.instagram.com/pedropresno/",
+    "profileImage": "assets/artists/profiles/pedro-presno-profile.jpg",
+    "initials": "PP"
+  },
+  {
+    "row": 15,
+    "name": "Héctor Rotela",
+    "description": "Artista plástico/ arte abstracto tridimensional y el ensamblaje/ formas de madera, técnicas mixtas",
+    "instagramRaw": "hectorrotela2023",
+    "instagramHandle": "hectorrotela2023",
+    "instagramUrl": "https://www.instagram.com/hectorrotela2023/",
+    "profileImage": "assets/artists/profiles/hector-rotela-profile.jpg",
+    "initials": "HR"
+  },
+  {
+    "row": 16,
+    "name": "Ana María Calo",
+    "description": "Impresionista",
+    "instagramRaw": "anacalo.arte",
+    "instagramHandle": "anacalo.arte",
+    "instagramUrl": "https://www.instagram.com/anacalo.arte/",
+    "profileImage": "assets/artists/profiles/ana-maria-calo-profile.jpg",
+    "initials": "AM"
+  },
+  {
+    "row": 18,
+    "name": "Roberto Eduardo Mauri",
+    "description": "Artista visual",
+    "instagramRaw": "robertoeduardomauri",
+    "instagramHandle": "robertoeduardomauri",
+    "instagramUrl": "https://www.instagram.com/robertoeduardomauri/",
+    "profileImage": "assets/artists/profiles/roberto-eduardo-mauri-profile.jpg",
+    "initials": "RE"
+  },
+  {
+    "row": 19,
+    "name": "Luis Pedro Picasso",
+    "description": "Soy un artista, ilustrador y diseñador",
+    "instagramRaw": "lppicasso",
+    "instagramHandle": "lppicasso",
+    "instagramUrl": "https://www.instagram.com/lppicasso/",
+    "profileImage": "assets/artists/profiles/luis-pedro-picasso-profile.jpg",
+    "initials": "LP"
+  },
+  {
+    "row": 86,
+    "name": "Lelen Ruete",
+    "description": "Fotógrafa artística y comercial + productora",
+    "instagramRaw": "lelenruete",
+    "instagramHandle": "lelenruete",
+    "instagramUrl": "https://www.instagram.com/lelenruete/",
+    "profileImage": "assets/artists/profiles/lelen-ruete-profile.jpg",
+    "initials": "LR"
+  },
+  {
+    "row": 101,
+    "name": "Pablo Feijo",
+    "description": "Artista plástico, que explora a través de su obra el complejo entramado urbano moderno y su devenir",
+    "instagramRaw": "pablitofeijoo_",
+    "instagramHandle": "pablitofeijoo_",
+    "instagramUrl": "https://www.instagram.com/pablitofeijoo_/",
+    "profileImage": "assets/artists/pablo.jpeg",
+    "initials": "PF"
+  },
+  {
+    "row": 110,
+    "name": "Pepe Souto",
+    "description": "Artista multimedia, especializado en experiencias digitales creativas",
+    "instagramRaw": "pepesouto",
+    "instagramHandle": "pepesouto",
+    "instagramUrl": "https://www.instagram.com/pepesouto/",
+    "profileImage": "assets/artists/pepe-souto-profile.jpg",
+    "initials": "PS"
+  },
+  {
+    "row": 20,
+    "name": "Betiana Soria",
+    "description": "Artista visual (ilustración, pintura y tatuaje)",
+    "instagramRaw": "betts_art",
+    "instagramHandle": "betts_art",
+    "instagramUrl": "https://www.instagram.com/betts_art/",
+    "profileImage": "assets/artists/profiles/betiana-soria-profile.jpg",
+    "initials": "BS"
+  },
+  {
+    "row": 21,
+    "name": "Luis Álvarez",
+    "description": "Artista plástico",
+    "instagramRaw": "luisalvarezartista",
+    "instagramHandle": "luisalvarezartista",
+    "instagramUrl": "https://www.instagram.com/luisalvarezartista/",
+    "profileImage": "assets/artists/profiles/luis-alvarez-profile.jpg",
+    "initials": "LÁ"
+  },
+  {
+    "row": 22,
+    "name": "Luisa Gastambide",
+    "description": "Artista visual",
+    "instagramRaw": "cosmic.luli",
+    "instagramHandle": "cosmic.luli",
+    "instagramUrl": "https://www.instagram.com/cosmic.luli/",
+    "profileImage": "assets/artists/profiles/luisa-gastambide-profile.jpg",
+    "initials": "LG"
+  },
+  {
+    "row": 23,
+    "name": "Barbara Plesky",
+    "description": "Artista plástica y fotógrafa",
+    "instagramRaw": "barbie.plesky",
+    "instagramHandle": "barbie.plesky",
+    "instagramUrl": "https://www.instagram.com/barbie.plesky/",
+    "profileImage": "assets/artists/profiles/barbara-plesky-profile.jpg",
+    "initials": "BP"
+  },
+  {
+    "row": 24,
+    "name": "Guillermina Albisu",
+    "description": "Cuadros abstractos y figurativos. Pinto en óleo acrílico y marcadores.",
+    "instagramRaw": "nanialbisu23",
+    "instagramHandle": "nanialbisu23",
+    "instagramUrl": "https://www.instagram.com/nanialbisu23/",
+    "profileImage": "assets/artists/profiles/guillermina-albisu-profile.jpg",
+    "initials": "GA"
+  },
+  {
+    "row": 25,
+    "name": "Analía Alfano",
+    "description": "Artista visual",
+    "instagramRaw": "analia_alfano",
+    "instagramHandle": "analia_alfano",
+    "instagramUrl": "https://www.instagram.com/analia_alfano/",
+    "profileImage": "assets/artists/profiles/analia-alfano-profile.jpg",
+    "initials": "AA"
+  },
+  {
+    "row": 26,
+    "name": "Gabriela Barral Canabal",
+    "description": "Arte textil. Técnicas mixtas.",
+    "instagramRaw": "borgo.atelier",
+    "instagramHandle": "borgo.atelier",
+    "instagramUrl": "https://www.instagram.com/borgo.atelier/",
+    "profileImage": "assets/artists/profiles/gabriela-barral-canabal-profile.jpg",
+    "initials": "GB"
+  },
+  {
+    "row": 27,
+    "name": "José Ma. Giraldez",
+    "description": "Arquitecto/ artista plástico",
+    "instagramRaw": "@josemariagiraldez",
+    "instagramHandle": "josemariagiraldez",
+    "instagramUrl": "https://www.instagram.com/josemariagiraldez/",
+    "profileImage": "assets/artists/profiles/jose-ma-giraldez-profile.jpg",
+    "initials": "JM"
+  },
+  {
+    "row": 28,
+    "name": "Paulina Sapelli",
+    "description": "Retratos en óleo",
+    "instagramRaw": "polis__studio",
+    "instagramHandle": "polis__studio",
+    "instagramUrl": "https://www.instagram.com/polis__studio/",
+    "profileImage": "assets/artists/profiles/paulina-sapelli-profile.jpg",
+    "initials": "PS"
+  },
+  {
+    "row": 29,
+    "name": "Guillermo Mangino",
+    "description": "Autor plástico",
+    "instagramRaw": "guille_andress_",
+    "instagramHandle": "guille_andress_",
+    "instagramUrl": "https://www.instagram.com/guille_andress_/",
+    "profileImage": "assets/artists/profiles/guillermo-mangino-profile.jpg",
+    "initials": "GM"
+  },
+  {
+    "row": 30,
+    "name": "Alexis Piana",
+    "description": "Estilo cubismo fusionado con realismo sobre cualquier lienzo: bastidor, prendas textiles o calzado.",
+    "instagramRaw": "custom_uruguay",
+    "instagramHandle": "custom_uruguay",
+    "instagramUrl": "https://www.instagram.com/custom_uruguay/",
+    "profileImage": "assets/artists/profiles/alexis-piana-profile.jpg",
+    "initials": "AP"
+  },
+  {
+    "row": 31,
+    "name": "Maximiliano Torres Leal",
+    "description": "Técnica Mixta, Acrílico y Pastel al Oleo Seco sobre Tela.",
+    "instagramRaw": "maxtorrle_art",
+    "instagramHandle": "maxtorrle_art",
+    "instagramUrl": "https://www.instagram.com/maxtorrle_art/",
+    "profileImage": "assets/artists/profiles/maximiliano-torres-leal-profile.jpg",
+    "initials": "MT"
+  },
+  {
+    "row": 32,
+    "name": "Mariana Carballo",
+    "description": "Artes Plásticas y Visuales",
+    "instagramRaw": "mar._.carballo",
+    "instagramHandle": "mar._.carballo",
+    "instagramUrl": "https://www.instagram.com/mar._.carballo/",
+    "profileImage": "assets/artists/profiles/mariana-carballo-profile.jpg",
+    "initials": "MC"
+  },
+  {
+    "row": 33,
+    "name": "María Valdes",
+    "description": "Pintura figurativa/ figuración sintética",
+    "instagramRaw": "mvsarte69",
+    "instagramHandle": "mvsarte69",
+    "instagramUrl": "https://www.instagram.com/mvsarte69/",
+    "profileImage": "assets/artists/profiles/maria-valdes-profile.jpg",
+    "initials": "MV"
+  },
+  {
+    "row": 34,
+    "name": "Fernanda Wilchowy",
+    "description": "Trabajo con diferentes técnicas que me permiten crear lo que me sensibiliza. Entre mis materiales preferidos, se encuentra el óleo por su maleabilidad y nobleza.",
+    "instagramRaw": "fernandawart",
+    "instagramHandle": "fernandawart",
+    "instagramUrl": "https://www.instagram.com/fernandawart/",
+    "profileImage": "assets/artists/profiles/fernanda-wilchowy-profile.jpg",
+    "initials": "FW"
+  },
+  {
+    "row": 35,
+    "name": "Nina Martinez Arrieta",
+    "description": "Artista visual- Tecnica: oleo sobre tela / pintura abstracta",
+    "instagramRaw": "ninamartinezarrieta",
+    "instagramHandle": "ninamartinezarrieta",
+    "instagramUrl": "https://www.instagram.com/ninamartinezarrieta/",
+    "profileImage": "assets/artists/profiles/nina-martinez-arrieta-profile.jpg",
+    "initials": "NM"
+  },
+  {
+    "row": 36,
+    "name": "Maria Alicia Grizzuti",
+    "description": "Taller Luis Alvarez",
+    "instagramRaw": "aliciagrizzuti",
+    "instagramHandle": "aliciagrizzuti",
+    "instagramUrl": "https://www.instagram.com/aliciagrizzuti/",
+    "profileImage": "assets/artists/profiles/maria-alicia-grizzuti-profile.jpg",
+    "initials": "MA"
+  },
+  {
+    "row": 37,
+    "name": "Leonardo Ferrazzi",
+    "description": "Dibujante y pintor",
+    "instagramRaw": "leoferrazzi_arte",
+    "instagramHandle": "leoferrazzi_arte",
+    "instagramUrl": "https://www.instagram.com/leoferrazzi_arte/",
+    "profileImage": "assets/artists/profiles/leonardo-ferrazzi-profile.jpg",
+    "initials": "LF"
+  },
+  {
+    "row": 38,
+    "name": "Graciela Lempert",
+    "description": "Artista visual contemporánea - relieves",
+    "instagramRaw": "@gracielalempert.",
+    "instagramHandle": "gracielalempert",
+    "instagramUrl": "https://www.instagram.com/gracielalempert/",
+    "profileImage": "assets/artists/profiles/graciela-lempert-profile.jpg",
+    "initials": "GL"
+  },
+  {
+    "row": 39,
+    "name": "Virginia Andrea Miner",
+    "description": "Técnicas mixtas, actualmente estoy en el taller de Luis Álvarez estudiando dibujo, óleo y workshops de color. También con Margarita Traverso, técnicas mixtas e ilustrando en acuarela un libro de mi autoría.",
+    "instagramRaw": "virginiandreminer",
+    "instagramHandle": "virginiandreminer",
+    "instagramUrl": "https://www.instagram.com/virginiandreminer/",
+    "profileImage": "assets/artists/profiles/virginia-andrea-miner-profile.jpg",
+    "initials": "VA"
+  },
+  {
+    "row": 40,
+    "name": "Cesar Cuadrelli",
+    "description": "Artista plástico",
+    "instagramRaw": "cesarpaintings",
+    "instagramHandle": "cesarpaintings",
+    "instagramUrl": "https://www.instagram.com/cesarpaintings/",
+    "profileImage": "assets/artists/profiles/cesar-cuadrelli-profile.jpg",
+    "initials": "CC"
+  },
+  {
+    "row": 42,
+    "name": "Mercedes De Angelis",
+    "description": "Bordado contemporáneo",
+    "instagramRaw": "mechi.deangelis",
+    "instagramHandle": "mechi.deangelis",
+    "instagramUrl": "https://www.instagram.com/mechi.deangelis/",
+    "profileImage": "assets/artists/profiles/mercedes-de-angelis-profile.jpg",
+    "initials": "MD"
+  },
+  {
+    "row": 44,
+    "name": "Lucia Arnabal",
+    "description": "Profesora de arte y comunicación visual",
+    "instagramRaw": "arnabalucia.arte.dibujo",
+    "instagramHandle": "arnabalucia.arte.dibujo",
+    "instagramUrl": "https://www.instagram.com/arnabalucia.arte.dibujo/",
+    "profileImage": "assets/artists/profiles/lucia-arnabal-profile.jpg",
+    "initials": "LA"
+  },
+  {
+    "row": 45,
+    "name": "María Paz Kaplan",
+    "description": "Escultura y cerámica, grés, porcelana, resina y bronce",
+    "instagramRaw": "m.paz.kaplan",
+    "instagramHandle": "m.paz.kaplan",
+    "instagramUrl": "https://www.instagram.com/m.paz.kaplan/",
+    "profileImage": "assets/artists/profiles/maria-paz-kaplan-profile.jpg",
+    "initials": "MP"
+  },
+  {
+    "row": 46,
+    "name": "Jimena Garcia Huidobro",
+    "description": "Arquitecta / óleo",
+    "instagramRaw": "jimenagarciahuidobro",
+    "instagramHandle": "jimenagarciahuidobro",
+    "instagramUrl": "https://www.instagram.com/jimenagarciahuidobro/",
+    "profileImage": "assets/artists/profiles/jimena-garcia-huidobro-profile.jpg",
+    "initials": "JG"
+  },
+  {
+    "row": 48,
+    "name": "Sofía Larre Borges",
+    "description": "Artista plástico",
+    "instagramRaw": "sofialarreborgesarte",
+    "instagramHandle": "sofialarreborgesarte",
+    "instagramUrl": "https://www.instagram.com/sofialarreborgesarte/",
+    "profileImage": "assets/artists/profiles/sofia-larre-borges-cristina-benavides-profile.jpg",
+    "initials": "SL"
+  },
+  {
+    "row": 49,
+    "name": "María Clara Rossi",
+    "description": "Artista plástico",
+    "instagramRaw": "mariaclararossimalan",
+    "instagramHandle": "mariaclararossimalan",
+    "instagramUrl": "https://www.instagram.com/mariaclararossimalan/",
+    "profileImage": "assets/artists/profiles/maria-clara-rossi-profile.jpg",
+    "initials": "MC"
+  },
+  {
+    "row": 50,
+    "name": "Máximo Rossi",
+    "description": "Artista plástico",
+    "instagramRaw": "maximorossi2014",
+    "instagramHandle": "maximorossi2014",
+    "instagramUrl": "https://www.instagram.com/maximorossi2014/",
+    "profileImage": "assets/artists/profiles/maximo-rossi-profile.jpg",
+    "initials": "MR"
+  },
+  {
+    "row": 52,
+    "name": "Valeria Sala",
+    "description": "Decoracion de interiores./ Mis obras comienzan con una idea abstracta/ En muchas ocasiones utilizo técnicas mixtas como el dorado/plateado a la hoja",
+    "instagramRaw": "valeriasala_pinturas",
+    "instagramHandle": "valeriasala_pinturas",
+    "instagramUrl": "https://www.instagram.com/valeriasala_pinturas/",
+    "profileImage": "assets/artists/profiles/valeria-sala-profile.jpg",
+    "initials": "VS"
+  },
+  {
+    "row": 54,
+    "name": "Juan Martín Olivera",
+    "description": "Artista plástico",
+    "instagramRaw": "@juan.martin.olivera",
+    "instagramHandle": "juan.martin.olivera",
+    "instagramUrl": "https://www.instagram.com/juan.martin.olivera/",
+    "profileImage": "assets/artists/profiles/juan-martin-olivera-profile.jpg",
+    "initials": "JM"
+  },
+  {
+    "row": 57,
+    "name": "Darwin González Langone",
+    "description": "Artista Plástico autodidacta/  Retablos en maderas con más de 200 años y telas con técnica mixta  abstracto",
+    "instagramRaw": "artepinturasypoemas",
+    "instagramHandle": "artepinturasypoemas",
+    "instagramUrl": "https://www.instagram.com/artepinturasypoemas/",
+    "profileImage": "assets/artists/profiles/darwin-gonzalez-langone-profile.jpg",
+    "initials": "DG"
+  },
+  {
+    "row": 58,
+    "name": "Claudia Cerminaro",
+    "description": "Escultura/ telas",
+    "instagramRaw": "claudiaecerminaro",
+    "instagramHandle": "claudiaecerminaro",
+    "instagramUrl": "https://www.instagram.com/claudiaecerminaro/",
+    "profileImage": "assets/artists/profiles/claudia-cerminaro-profile.jpg",
+    "initials": "CC"
+  },
+  {
+    "row": 59,
+    "name": "Pablo Rebella",
+    "description": "Dibujo del natural / desnudo y el estudio del cuerpo humano.",
+    "instagramRaw": "pablorebella",
+    "instagramHandle": "pablorebella",
+    "instagramUrl": "https://www.instagram.com/pablorebella/",
+    "profileImage": "assets/artists/profiles/pablo-rebella-profile.jpg",
+    "initials": "PR"
+  },
+  {
+    "row": 60,
+    "name": "Pablo Solari",
+    "description": "Pintura figurativa/ óleo/ periodista",
+    "instagramRaw": "pablo.solari.art",
+    "instagramHandle": "pablo.solari.art",
+    "instagramUrl": "https://www.instagram.com/pablo.solari.art/",
+    "profileImage": "assets/artists/profiles/pablo-solari-profile.jpg",
+    "initials": "PS"
+  },
+  {
+    "row": 61,
+    "name": "Martina Beillinson",
+    "description": "Obras de papel calado y collage.",
+    "instagramRaw": "@martinabeilinson",
+    "instagramHandle": "martinabeilinson",
+    "instagramUrl": "https://www.instagram.com/martinabeilinson/",
+    "profileImage": "assets/artists/profiles/martina-beillinson-profile.jpg",
+    "initials": "MB"
+  },
+  {
+    "row": 62,
+    "name": "Jeannette Moris",
+    "description": "Dedicada a pintura y escultura, estudio varias disciplinas óleo, acuarela, acrílico, cerámica, fotografía y esculturas / Arquitecta",
+    "instagramRaw": "moris.artist",
+    "instagramHandle": "moris.artist",
+    "instagramUrl": "https://www.instagram.com/moris.artist/",
+    "profileImage": "assets/artists/profiles/jeannette-moris-profile.jpg",
+    "initials": "JM"
+  },
+  {
+    "row": 63,
+    "name": "Andrés Urtado",
+    "description": "Escultura",
+    "instagramRaw": "andresurtado",
+    "instagramHandle": "andresurtado",
+    "instagramUrl": "https://www.instagram.com/andresurtado/",
+    "profileImage": "assets/artists/profiles/andres-urtado-profile.jpg",
+    "initials": "AU"
+  },
+  {
+    "row": 64,
+    "name": "Silvia Santero",
+    "description": "Artista visual",
+    "instagramRaw": "artesagrado33",
+    "instagramHandle": "artesagrado33",
+    "instagramUrl": "https://www.instagram.com/artesagrado33/",
+    "profileImage": "assets/artists/profiles/silvia-santero-profile.jpg",
+    "initials": "SS"
+  },
+  {
+    "row": 65,
+    "name": "Fernando Dominguez",
+    "description": "Obras en pastel seco",
+    "instagramRaw": "fdominguezart",
+    "instagramHandle": "fdominguezart",
+    "instagramUrl": "https://www.instagram.com/fdominguezart/",
+    "profileImage": "assets/artists/profiles/fernando-dominguez-profile.jpg",
+    "initials": "FD"
+  },
+  {
+    "row": 67,
+    "name": "Maria Cecilia Montaña Charle",
+    "description": "Artista plástica",
+    "instagramRaw": "mmontanacharle",
+    "instagramHandle": "mmontanacharle",
+    "instagramUrl": "https://www.instagram.com/mmontanacharle/",
+    "profileImage": "assets/artists/profiles/maria-cecilia-montana-charle-profile.jpg",
+    "initials": "MC"
+  },
+  {
+    "row": 68,
+    "name": "Enrique SASSON",
+    "description": "Taller sisto pascale",
+    "instagramRaw": "_quiquesasson",
+    "instagramHandle": "_quiquesasson",
+    "instagramUrl": "https://www.instagram.com/_quiquesasson/",
+    "profileImage": "assets/artists/profiles/enrique-sasson-profile.jpg",
+    "initials": "ES"
+  },
+  {
+    "row": 69,
+    "name": "Victoria Rodriguez",
+    "description": "Pintura figurativa/ retrato femenino",
+    "instagramRaw": "v.rodriguez.art",
+    "instagramHandle": "v.rodriguez.art",
+    "instagramUrl": "https://www.instagram.com/v.rodriguez.art/",
+    "profileImage": "assets/artists/profiles/victoria-rodriguez-profile.jpg",
+    "initials": "VR"
+  },
+  {
+    "row": 70,
+    "name": "Viviana Coronel",
+    "description": "Arquitecta y Fotógrafa",
+    "instagramRaw": "vivianacoronel_fotos",
+    "instagramHandle": "vivianacoronel_fotos",
+    "instagramUrl": "https://www.instagram.com/vivianacoronel_fotos/",
+    "profileImage": "assets/artists/profiles/viviana-coronel-profile.jpg",
+    "initials": "VC"
+  },
+  {
+    "row": 71,
+    "name": "Margarita Nin",
+    "description": "Abstractos / acrílico y utiliza diferentes materiales y técnicas.",
+    "instagramRaw": "marganin_art",
+    "instagramHandle": "marganin_art",
+    "instagramUrl": "https://www.instagram.com/marganin_art/",
+    "profileImage": "assets/artists/profiles/margarita-nin-profile.jpg",
+    "initials": "MN"
+  },
+  {
+    "row": 72,
+    "name": "Ricardo Nowinski",
+    "description": "Artista plástico - ceramista",
+    "instagramRaw": "ricardo.nowinski.arte",
+    "instagramHandle": "ricardo.nowinski.arte",
+    "instagramUrl": "https://www.instagram.com/ricardo.nowinski.arte/",
+    "profileImage": "assets/artists/profiles/ricardo-nowinski-profile.jpg",
+    "initials": "RN"
+  },
+  {
+    "row": 73,
+    "name": "Monica Packer",
+    "description": "Artista plástica",
+    "instagramRaw": "packermonica",
+    "instagramHandle": "packermonica",
+    "instagramUrl": "https://www.instagram.com/packermonica/",
+    "profileImage": "assets/artists/profiles/monica-packer-profile.jpg",
+    "initials": "MP"
+  },
+  {
+    "row": 74,
+    "name": "Paula Duri",
+    "description": "Artista plástica",
+    "instagramRaw": "@pauladuri",
+    "instagramHandle": "pauladuri",
+    "instagramUrl": "https://www.instagram.com/pauladuri/",
+    "profileImage": "assets/artists/profiles/paula-duri-profile.jpg",
+    "initials": "PD"
+  },
+  {
+    "row": 75,
+    "name": "Magali Mauad",
+    "description": "Pintura",
+    "instagramRaw": "magalimauad",
+    "instagramHandle": "magalimauad",
+    "instagramUrl": "https://www.instagram.com/magalimauad/",
+    "profileImage": "assets/artists/profiles/magali-mauad-profile.jpg",
+    "initials": "MM"
+  },
+  {
+    "row": 78,
+    "name": "Agó Páez",
+    "description": "Mandalas/ muralismo/ técnicas mixtas",
+    "instagramRaw": "agopaezvilaro",
+    "instagramHandle": "agopaezvilaro",
+    "instagramUrl": "https://www.instagram.com/agopaezvilaro/",
+    "profileImage": "assets/artists/profiles/ago-paez-profile.jpg",
+    "initials": "AP"
+  },
+  {
+    "row": 79,
+    "name": "Diana Banchero",
+    "description": "Artista visual",
+    "instagramRaw": "galenarte.studio.uy",
+    "instagramHandle": "galenarte.studio.uy",
+    "instagramUrl": "https://www.instagram.com/galenarte.studio.uy/",
+    "profileImage": "assets/artists/profiles/diana-banchero-profile.jpg",
+    "initials": "DB"
+  },
+  {
+    "row": 80,
+    "name": "Andrea Domínguez",
+    "description": "Artista visual",
+    "instagramRaw": "singulario.arte",
+    "instagramHandle": "singulario.arte",
+    "instagramUrl": "https://www.instagram.com/singulario.arte/",
+    "profileImage": "assets/artists/profiles/andrea-dominguez-profile.jpg",
+    "initials": "AD"
+  },
+  {
+    "row": 82,
+    "name": "Jorge Doldán",
+    "description": "Trabajo con madera",
+    "instagramRaw": "@doldanberlan",
+    "instagramHandle": "doldanberlan",
+    "instagramUrl": "https://www.instagram.com/doldanberlan/",
+    "profileImage": "assets/artists/profiles/jorge-doldan-profile.jpg",
+    "initials": "JD"
+  },
+  {
+    "row": 83,
+    "name": "Belén Hernández",
+    "description": "Pintura + poesía",
+    "instagramRaw": "Belen.entre.mundos",
+    "instagramHandle": "Belen.entre.mundos",
+    "instagramUrl": "https://www.instagram.com/Belen.entre.mundos/",
+    "profileImage": "assets/artists/profiles/belen-hernandez-profile.jpg",
+    "initials": "BH"
+  },
+  {
+    "row": 85,
+    "name": "Victoria Olt",
+    "description": "Realismo mágico contemporáneo",
+    "instagramRaw": "victoriaoltart",
+    "instagramHandle": "victoriaoltart",
+    "instagramUrl": "https://www.instagram.com/victoriaoltart/",
+    "profileImage": "assets/artists/profiles/victoria-olt-profile.jpg",
+    "initials": "VO"
+  },
+  {
+    "row": 89,
+    "name": "Marcos Andrade Raffo",
+    "description": "Pintura",
+    "instagramRaw": "mt.andrade.uy",
+    "instagramHandle": "mt.andrade.uy",
+    "instagramUrl": "https://www.instagram.com/mt.andrade.uy/",
+    "profileImage": "assets/artists/profiles/marcos-andrade-raffo-profile.jpg",
+    "initials": "MA"
+  },
+  {
+    "row": 90,
+    "name": "Alexandra Strauch",
+    "description": "Artista visual",
+    "instagramRaw": "alestrauch.art",
+    "instagramHandle": "alestrauch.art",
+    "instagramUrl": "https://www.instagram.com/alestrauch.art/",
+    "profileImage": "assets/artists/profiles/alexandra-strauch-profile.jpg",
+    "initials": "AS"
+  },
+  {
+    "row": 91,
+    "name": "Romina Rocca",
+    "description": "Óleo/ realismo",
+    "instagramRaw": "rorocca.arte",
+    "instagramHandle": "rorocca.arte",
+    "instagramUrl": "https://www.instagram.com/rorocca.arte/",
+    "profileImage": "assets/artists/profiles/romina-rocca-profile.jpg",
+    "initials": "RR"
+  },
+  {
+    "row": 92,
+    "name": "Karina Arnera",
+    "description": "Joyería contemporánea y arquitecta",
+    "instagramRaw": "keametalsmith",
+    "instagramHandle": "keametalsmith",
+    "instagramUrl": "https://www.instagram.com/keametalsmith/",
+    "profileImage": "assets/artists/profiles/karina-arnera-profile.jpg",
+    "initials": "KA"
+  },
+  {
+    "row": 93,
+    "name": "Anita Selvaggio",
+    "description": "Artista plástica y arquitecta",
+    "instagramRaw": "selva.artwork",
+    "instagramHandle": "selva.artwork",
+    "instagramUrl": "https://www.instagram.com/selva.artwork/",
+    "profileImage": "assets/artists/profiles/anita-selvaggio-profile.jpg",
+    "initials": "AS"
+  },
+  {
+    "row": 97,
+    "name": "Lena Echelle y Patricia Mogni",
+    "description": "Joyería Contemporánea",
+    "instagramRaw": "patriciamogni",
+    "instagramHandle": "patriciamogni",
+    "instagramUrl": "https://www.instagram.com/patriciamogni/",
+    "profileImage": "assets/artists/profiles/lena-echelle-y-patricia-mogni-profile.jpg",
+    "initials": "LE"
+  },
+  {
+    "row": 98,
+    "name": "Julio Arreche",
+    "description": "Pintura y escultura",
+    "instagramRaw": "jarrechegallery",
+    "instagramHandle": "jarrechegallery",
+    "instagramUrl": "https://www.instagram.com/jarrechegallery/",
+    "profileImage": "assets/artists/profiles/julio-arreche-profile.jpg",
+    "initials": "JA"
+  },
+  {
+    "row": 99,
+    "name": "Mónica Barriola",
+    "description": "Artista plástica visual",
+    "instagramRaw": "monicabarriola_",
+    "instagramHandle": "monicabarriola_",
+    "instagramUrl": "https://www.instagram.com/monicabarriola_/",
+    "profileImage": "assets/artists/profiles/monica-barriola-profile.jpg",
+    "initials": "MB"
+  },
+  {
+    "row": 100,
+    "name": "Magdalena González Lorenzo",
+    "description": "Artista plástica",
+    "instagramRaw": "mandielarte",
+    "instagramHandle": "mandielarte",
+    "instagramUrl": "https://www.instagram.com/mandielarte/",
+    "profileImage": "assets/artists/profiles/magdalena-gonzalez-lorenzo-profile.jpg",
+    "initials": "MG"
+  },
+  {
+    "row": 2,
+    "name": "Daniela Bulla",
+    "description": "Artes plásticas/ hiperrealismo y la pintura al óleo",
+    "instagramRaw": "danibullamarquisio",
+    "instagramHandle": "danibullamarquisio",
+    "instagramUrl": "https://www.instagram.com/danibullamarquisio/",
+    "profileImage": "assets/artists/profiles/daniela-bulla-profile.jpg",
+    "initials": "DB"
+  },
+  {
+    "row": 3,
+    "name": "Satya Pizzo",
+    "description": "Artes Plásticas y Visuales",
+    "instagramRaw": "satyapizzo",
+    "instagramHandle": "satyapizzo",
+    "instagramUrl": "https://www.instagram.com/satyapizzo/",
+    "profileImage": "assets/artists/profiles/satya-pizzo-profile.jpg",
+    "initials": "SP"
+  },
+  {
+    "row": 6,
+    "name": "Andrés Alvira",
+    "description": "Artista plástico",
+    "instagramRaw": "@andresartworks",
+    "instagramHandle": "andresartworks",
+    "instagramUrl": "https://www.instagram.com/andresartworks/",
+    "profileImage": "assets/artists/profiles/andres-alvira-profile.jpg",
+    "initials": "AA"
+  },
+  {
+    "row": 7,
+    "name": "Victoria Muniagurria",
+    "description": "Artista visual textil",
+    "instagramRaw": "Victoriamuniagurria",
+    "instagramHandle": "Victoriamuniagurria",
+    "instagramUrl": "https://www.instagram.com/Victoriamuniagurria/",
+    "profileImage": "assets/artists/profiles/victoria-muniagurria-profile.jpg",
+    "initials": "VM"
+  },
+  {
+    "row": 47,
+    "name": "Claudia Cruz",
+    "description": "Artista visual dedicada al arte textil.",
+    "instagramRaw": "@clauduacruzdeco",
+    "instagramHandle": "clauduacruzdeco",
+    "instagramUrl": "https://www.instagram.com/clauduacruzdeco/",
+    "profileImage": "",
+    "initials": "CC"
+  },
+  {
+    "row": 51,
+    "name": "Iesel Clara",
+    "description": "Soy artista visual/ talleres con Clever Lara, Prunell, Emilio Bolinches, Gustavo Fernández, Gerardo Ruiz y Aldo Curto",
+    "instagramRaw": "@iesrl.arte",
+    "instagramHandle": "iesrl.arte",
+    "instagramUrl": "https://www.instagram.com/iesrl.arte/",
+    "profileImage": "",
+    "initials": "IC"
+  },
+  {
+    "row": 84,
+    "name": "Cecilia Rodríguez Bedacarratz",
+    "description": "Textil",
+    "instagramRaw": "mc_puntadas",
+    "instagramHandle": "mc_puntadas",
+    "instagramUrl": "https://www.instagram.com/mc_puntadas/",
+    "profileImage": "",
+    "initials": "CR"
+  },
+  {
+    "row": 4,
+    "name": "Gutavo Somoza",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "GS"
+  },
+  {
+    "row": 5,
+    "name": "Gabriel Rimoli",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "GR"
+  },
+  {
+    "row": 8,
+    "name": "Olga Armand Ugon",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "OA"
+  },
+  {
+    "row": 14,
+    "name": "Milagros Rodriguez",
+    "description": "Fotografía",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "MR"
+  },
+  {
+    "row": 17,
+    "name": "Hortensia Metzen",
+    "description": "Artista plástica/ pintura al óleo",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "HM"
+  },
+  {
+    "row": 41,
+    "name": "Ana María Figueroa Pezzolano",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "AM"
+  },
+  {
+    "row": 43,
+    "name": "Marina Dellepiane",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "MD"
+  },
+  {
+    "row": 53,
+    "name": "Ernesto Medina Spangenberg",
+    "description": "Artista plástico autodidacta/  acuarela",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "EM"
+  },
+  {
+    "row": 55,
+    "name": "Rosita Schandy",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "RS"
+  },
+  {
+    "row": 56,
+    "name": "Rosa Oliveto",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "RO"
+  },
+  {
+    "row": 66,
+    "name": "Micaela Centro de pintura",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "MC"
+  },
+  {
+    "row": 76,
+    "name": "Ingrid Ruprechter",
+    "description": "Acuarleista",
+    "instagramRaw": "ruprechter _ acuarela",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "IR"
+  },
+  {
+    "row": 77,
+    "name": "Lucila Influencer argentina",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "LI"
+  },
+  {
+    "row": 81,
+    "name": "Carlos Javier Camacho",
+    "description": "Artista plástico",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "CJ"
+  },
+  {
+    "row": 87,
+    "name": "Alejandro Sansone",
+    "description": "Pintura",
+    "instagramRaw": "no tiene",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "AS"
+  },
+  {
+    "row": 88,
+    "name": "Maikel Moret Santana",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "MM"
+  },
+  {
+    "row": 94,
+    "name": "ZELMIRA PERALTA RAMOS",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "ZP"
+  },
+  {
+    "row": 95,
+    "name": "Gonzalo Del Puerto",
+    "description": "Artista visual y diseñador",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "GD"
+  },
+  {
+    "row": 96,
+    "name": "María Inés Haas",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "MI"
+  },
+  {
+    "row": 102,
+    "name": "Rosa Oliveto",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "RO"
+  },
+  {
+    "row": 103,
+    "name": "William Rivas",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "WR"
+  },
+  {
+    "row": 104,
+    "name": "Laura Pietrafesa",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "LP"
+  },
+  {
+    "row": 105,
+    "name": "Sofia Heguy",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "SH"
+  },
+  {
+    "row": 106,
+    "name": "Ximena Colombres",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "XC"
+  },
+  {
+    "row": 107,
+    "name": "Rodolfo Barcia",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "RB"
+  },
+  {
+    "row": 108,
+    "name": "Margot Machado Silva",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "MM"
+  },
+  {
+    "row": 109,
+    "name": "María José Tato",
+    "description": "",
+    "instagramRaw": "",
+    "instagramHandle": "",
+    "instagramUrl": "",
+    "profileImage": "",
+    "initials": "MJ"
+  }
+]

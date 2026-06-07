@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "check:apify-token": "node scripts/check-apify-token.mjs"
+  }
+}
