@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "build": "node scripts/build-static.mjs",
     "check:apify-token": "node scripts/check-apify-token.mjs"
   }
 }
